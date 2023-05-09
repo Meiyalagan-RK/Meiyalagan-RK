@@ -1,8 +1,8 @@
 ### Hi Developers 👋
 
-I'm
+I'm Meiyalagan Front-End Developer
 
-Front-End Developer
+
 As a Front-End Developer, I specialize in designing and developing visually appealing and user-friendly websites that enhance user experience and drive business results. I am proficient in HTML, CSS, JavaScript, and jQuery, and I have experience with responsive design, cross-browser compatibility, and web accessibility. I am also familiar with modern front-end frameworks such as React, Vue, and Node.js and I am constantly learning and keeping up-to-date with the latest web development trends and technologies.
 
 In addition to my technical skills, I possess strong problem-solving abilities, attention to detail, and effective communication skills. I am passionate about creating high-quality websites that provide an excellent user experience and drive business success, and I am excited about the opportunity to contribute to your team and help your company achieve its goals.
