@@ -1,23 +1,13 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
-
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Front-End Developer
+As a Front-End Developer, I specialize in designing and developing visually appealing and user-friendly websites that enhance user experience and drive business results. I am proficient in HTML, CSS, JavaScript, and jQuery, and I have experience with responsive design, cross-browser compatibility, and web accessibility. I am also familiar with modern front-end frameworks such as React, Vue, and Node.js and I am constantly learning and keeping up-to-date with the latest web development trends and technologies.
 
+In addition to my technical skills, I possess strong problem-solving abilities, attention to detail, and effective communication skills. I am passionate about creating high-quality websites that provide an excellent user experience and drive business success, and I am excited about the opportunity to contribute to your team and help your company achieve its goals.
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+To leverage my 3 years of experience in [Non-IT Industry] and my passion for technology to transition to a career as a Front-End Developer. Seeking a challenging role that will enable me to apply my creative and analytical skills to design and develop visually appealing and user-friendly websites that enhance user experience and drive business results. I am committed to learning new technologies.
 
-<div>
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
-  </a>
-</div>
 
 Languages and Tools: 
 
