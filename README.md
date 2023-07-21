@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==================================================================================================================================
 
 Full Stack Developer
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/meiyalagan-rk-2b06661b3/)
+[![Linkedin Badge](https://img.shields.io/badge/-meiyalagan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/meiyalagan-rk-2b06661b3/))](https://www.linkedin.com/in/meiyalagan-rk-2b06661b3/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
 
