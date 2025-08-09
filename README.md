@@ -7,7 +7,7 @@ Full Stack Developer
 
 [![Linkedin Badge](https://img.shields.io/badge/-meiyalagan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/aakash--01629954/](https://www.linkedin.com/in/meiyalagan-rk-2b06661b3/))](https://www.linkedin.com/in/meiyalagan-rk-2b06661b3/)
 
-I am a MERN Stack Developer with 6 months of experience in an internship. I am proficient in HTML, CSS, and JavaScript, and I use these skills to create web pages that are both visually appealing and responsive. I have also developed additional skills that I am eager to apply to new projects and challenges. My passion for technology and creating user-friendly applications has led me to transition into Full Stack Development. I am confident that I will excel in this field and am excited to continue growing and seeking new opportunities to further enhance my abilities.
+SDET with 2 years of experience working in Agile Scrum teams in a fast-paced SaaS environment, specializing in automated and manual testing. Skilled in designing and maintaining Cypress frameworks for both UI and API automation, integrating tests into CI/CD pipelines, and validating data with MongoDB assertions. Adept at collaborating with developers, DevOps, and product teams to deliver high-quality software and continuously improve test coverage.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [meiyalaganrk021@gmail.com](mailto:meiyalaganrk021@gmail.com)
